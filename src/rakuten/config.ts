@@ -1,0 +1,1 @@
+export const RAKUTEN_API = process.env.REACT_APP_RAKUTEN_API
